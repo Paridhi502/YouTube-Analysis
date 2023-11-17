@@ -1,10 +1,10 @@
 # YouTube-Analysis
 This project has two parts:
-Part A->
+##Part A->
 Sentiment Analysis
 his YouTube Sentiment Analyzer is a tool designed to analyze the sentiment of comments on a given YouTube video. Users can input a YouTube URL, and the tool will provide a breakdown of the number of positive, negative, and neutral comments. Additionally, it generates a word cloud to visually represent the most frequently used words in the comments.
 
-#Features:
+Features:
 
 #Sentiment Analysis: 
 The tool utilizes natural language processing to determine the sentiment of each comment, classifying them into positive, negative, or neutral categories.
